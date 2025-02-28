@@ -1,0 +1,37 @@
+{
+  "audiovisual_files": {
+    "ea1c1f07-94ed-43e2-93cd-2697ff2d6970": {
+      "label": "\"C:\\Users\\jonat\\Downloads\\Sound Bites for ENGL 483.mp3\"",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Testing with the sound bites for ENGL"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "\"I dunno\"",
+  "item_type": "Audio",
+  "label": "ENGL Sample sounds ",
+  "created_at": "2025-02-28T20:22:33.130Z",
+  "created_by": "Jlubrick",
+  "updated_at": "2025-02-28T20:22:33.130Z",
+  "updated_by": "Jlubrick"
+}
