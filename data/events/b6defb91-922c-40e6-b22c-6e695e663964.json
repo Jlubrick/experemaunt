@@ -1,9 +1,9 @@
 {
   "audiovisual_files": {
     "ea1c1f07-94ed-43e2-93cd-2697ff2d6970": {
-      "label": "\"C:\\Users\\jonat\\Downloads\\Sound Bites for ENGL 483.mp3\"",
+      "label": "Sound Bites for ENGL",
       "is_offline": true,
-      "file_url": "",
+      "file_url": "\"C:\\Users\\jonat\\Downloads\\Sound Bites for ENGL 483.mp3\"",
       "duration": 90,
       "caption_set": []
     }
@@ -32,6 +32,6 @@
   "label": "ENGL Sample sounds ",
   "created_at": "2025-02-28T20:22:33.130Z",
   "created_by": "Jlubrick",
-  "updated_at": "2025-02-28T20:22:33.130Z",
+  "updated_at": "2025-02-28T20:23:03.572Z",
   "updated_by": "Jlubrick"
 }
