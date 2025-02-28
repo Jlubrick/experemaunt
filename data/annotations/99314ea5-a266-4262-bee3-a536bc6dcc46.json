@@ -73,6 +73,27 @@
         }
       ],
       "uuid": "abb64c83-e986-4a14-b6b9-d4988b46044d"
+    },
+    {
+      "start_time": 12,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does this always go off the start date?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "I have no idea",
+          "category": "Fun Stuff"
+        }
+      ],
+      "uuid": "2b14e3b1-7397-4dcd-9093-ad3cb16ddbad"
     }
   ],
   "set": "Default",
