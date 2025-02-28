@@ -13,7 +13,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Stinkers ",
+          "tag": "Poop"
+        },
+        {
+          "category": "Stinkers ",
+          "tag": "Fart"
+        }
+      ],
       "uuid": "87842d32-9f2b-4b6a-a42d-027f8bb0129e"
     }
   ],
